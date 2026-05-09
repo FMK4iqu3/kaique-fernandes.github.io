@@ -2802,6 +2802,12 @@ input, select, textarea {
 			overflow: hidden;
 		}
 
+			.post > a.image.featured.project-preview {
+				margin-left: auto;
+				margin-right: auto;
+				max-width: 34em;
+			}
+
 			.post > a.image.featured img {
 				-moz-transition: -moz-transform 0.2s ease-out;
 				-webkit-transition: -webkit-transform 0.2s ease-out;
